@@ -7,7 +7,7 @@
     "type": "REST",
     "lang": {
       "en-US": {
-        "name": "REST Activity (Workflow API v1.1)",
+        "name": "TEST - Custom Activity (Não utilizar)",
         "description": "An example REST activity using workflow API v1.1 format."
       }
     },
@@ -26,7 +26,7 @@
             "foundSignupDate": ""
           }
         ],
-        "url": "https://some-endpoint.com/execute"
+        "url": ""
       }
     },
     "configurationArguments": {
