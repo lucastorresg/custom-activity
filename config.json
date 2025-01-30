@@ -14,16 +14,16 @@
     "arguments": {
     "execute": {
       "inArguments": [
-        { "contactKey": "{{Contact.Key}}" },
-        { "FirstName": "{{Contact.Attribute.JourneyEntrySource.FirstName}}"},
-        { "LastName": "{{Contact.Attribute.JourneyEntrySource.LastName}}"}
+        { "contactKey": "contact_key" },
+        { "FirstName": "first_name"},
+        { "LastName": "last_name"}
       ],
-      "url": ""
+      "url": "https://eog53o0da96uu8r.m.pipedream.net"
     }
   },
   "configurationArguments": {
     "publish": {
-      "url": ""
+      "url": "https://eog53o0da96uu8r.m.pipedream.net"
     }
   },
   "editable": true,
