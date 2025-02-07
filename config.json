@@ -3,7 +3,7 @@
     "metaData": {
       "icon": "sms.png",
       "category": "message",
-      "isConfigured": true
+      "isConfigured": false
     },
     "type": "REST",
     "lang": {
